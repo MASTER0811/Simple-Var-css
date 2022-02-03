@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+.ws-btn{
+    padding: var(--this-padding);
+    border-radius: var(--this-border-radius);
+    font-family: var(--this-font-family);
+    font-size: var(--this-font-size);
+    font-weight: var(--this-font-weight);
+    background-color: var(--this-background);
+    color: var(--this-color);
+    border: var(--this-border);
+    outline: var(--this-outline);
+    cursor: var(--this-cursor);
+    transition: var(--this-transition);
+    position: var(--this-position);
+}
+.ws-btn:hover{
+    box-shadow: rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
+    transform: scale(1.015);
+}
