@@ -72,3 +72,22 @@ In `active`
 |-------|--------|
 | background |`--this-background`|
 | opacity | `--this-active-opacity`|
+
+## You Can Use Like that
+Exp:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exp File</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+  <button class="ws-btn">The Button</button>
+</body>
+</html>
+```
