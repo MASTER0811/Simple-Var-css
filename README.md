@@ -4,7 +4,7 @@
 
 ## Insert `<link>` tag in your `<head>` element
 ```html
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MASTER0811/simple-var-css/main.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MASTER0811/button-var-css/main.css">
 ```
 #### OR
 Use [Git Clone](https://git-scm.com/)
@@ -90,7 +90,7 @@ Exp:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exp File</title>
     <link rel="stylesheet" href="./style.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MASTER0811/simple-var-css/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MASTER0811/button-var-css/main.css">
 </head>
 <body>
   <button class="ws-btn">The Button</button>
