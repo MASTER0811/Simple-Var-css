@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+button.ws-btn{
+    padding: var(--this-padding);
+    /* padding-top: var(--this-padding-top); */
+    /* padding-bottom: var(--this-padding-bottom); */
+    /* padding-left: var(--this-padding-left); */
+    /* padding-right: var(--this-padding-right); */
+
+    margin: var(--this-margin);
+    /* margin-top: var(--this-margin-top); */
+    /* margin-bottom: var(--this-margin-bottom); */
+    /* margin-left: var(--this-margin-left); */
+    /* margin-right: var(--this-margin-right); */
+
+
+    border-radius: var(--this-border-radius);
+    /* border-top-left-radius: var(--this-border-t-l-radius); */
+    /* border-top-right-radius: var(--this-border-t-r-radius); */
+    /* border-bottom-left-radius: var(--this-border-b-l-radius); */
+    /* border-bottom-right-radius: var(--this-border-b-r-radius); */
+
+
+
+    font-family: var(--this-font-family);
+    font-size: var(--this-font-size);
+    font-weight: var(--this-font-weight);
+
+
+    background: var(--this-background);
+
+
+    color: var(--this-color);
+
+    border: var(--this-border);
+
+    outline: var(--this-outline);
+
+    cursor: var(--this-cursor);
+
+    transition: var(--this-transition);
+
+    position: var(--this-position);
+
+    transform: var(--this-transform);
+
+    box-shadow: var(--this-box-shadow);
+}
+button.ws-btn:hover{
+    box-shadow: var(--this-hover-box-shadow);
+    transform: var(--this-hover-transform);
+}
+button.ws-btn:active{
+    transition: .1s;
+    background: var(--this-active-background);
+    opacity: var(--this-active-opacity);
+}
